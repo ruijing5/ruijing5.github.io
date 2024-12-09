@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DREAM Project Site
+title: Final Quest Report for Programming
 ---
 
 * TOC
@@ -8,15 +8,11 @@ title: DREAM Project Site
 
 ## About Me
 
-My info goes here.
-
-## About My Advisor
-
-Advisor info goes here.
+Class of 2027 at Uni High
 
 ## About My Project
 
-Project description goes here.
+the 250 word proposal or smth thats more polished about the project
 
 [My Final Report](files/finalreport.pdf)
 
