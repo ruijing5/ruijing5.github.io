@@ -12,7 +12,7 @@ Class of 2027 at Uni High
 
 ## About My Project
 
-the 250 word proposal or smth thats more polished about the project
+Flashcard program with three features: customized flashcard creation, practice, and progress visualization.
 
 [My Final Report](files/finalreport.pdf)
 
