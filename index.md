@@ -8,13 +8,11 @@ title: Final Quest Report for Programming
 
 ## About Me
 
-Class of 2027 at Uni High
+Uni High class of 2027 student taking Fall 2024 Programming Fundamentals.
 
 ## About My Project
 
-Flashcard program with three features: customized flashcard creation, practice, and progress visualization.
-
-[My Final Report](files/finalreport.pdf)
+Flashcard program with three features: customized flashcard creation, practice with randomized prompts and following the repeat-on-error logic, and progress visualization.
 
 ## My Blog
 
