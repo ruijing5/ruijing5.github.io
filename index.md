@@ -14,6 +14,9 @@ Uni High class of 2027 student taking Fall 2024 Programming Fundamentals.
 
 Flashcard program with three features: customized flashcard creation, practice with randomized prompts and following the repeat-on-error logic, and progress visualization.
 
+## My Code
+Final version of my code can be found [here](../files/Final_Project.ipynb).
+
 ## My Blog
 
 [My Blog](blog.html)
